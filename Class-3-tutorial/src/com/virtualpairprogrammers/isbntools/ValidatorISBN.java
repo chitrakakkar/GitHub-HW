@@ -7,5 +7,4 @@ public class ValidatorISBN {
 		return true;
 	}
 
-
 }
